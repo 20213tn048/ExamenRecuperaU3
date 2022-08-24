@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ExamenRecuperacionU3:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>ExamenRecuperacionU3</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="ExamenRecuperacionU3-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="ExamenRecuperacionU3:war exploded" />
+    </root>
+  </artifact>
+</component>
